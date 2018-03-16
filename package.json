@@ -1,0 +1,25 @@
+{
+  "name": "ionic-angular",
+  "version": "3.9.2-201803162308",
+  "description": "A powerful framework for building mobile and progressive web apps with JavaScript and Angular",
+  "keywords": [
+    "ionic",
+    "framework",
+    "mobile",
+    "app",
+    "hybrid",
+    "webapp",
+    "cordova",
+    "progressive web app",
+    "pwa"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ionic-team/ionic.git"
+  },
+  "license": "MIT",
+  "main": "umd/index.js",
+  "module": "index.js",
+  "es2015": "es2015/index.js",
+  "peerDependencies": {}
+}
